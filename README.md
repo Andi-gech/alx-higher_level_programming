@@ -23,4 +23,4 @@ Topics covered in these projects include data structures (e.g. arrrays, linked l
 
 ## Author 
 
-**Gabriel Dan** | **Alias:** *Zeus*
+**Andualem GEtachew
