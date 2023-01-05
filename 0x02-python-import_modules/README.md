@@ -1,7 +1,6 @@
 ## Python - import & modules
 
-### Learning Objectives
-
+### Learning Objective
 At the end of the project, you are expected to be able to explain to anyone, without the help of Google:
 
 #### General
@@ -13,3 +12,4 @@ At the end of the project, you are expected to be able to explain to anyone, wit
  - How to use the built-in function dir()
  - How to prevent code in your script from being executed when imported
  - How to use command line arguments with your Python programs
+by andualem getachee
