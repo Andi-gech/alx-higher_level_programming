@@ -13,3 +13,4 @@
  - How to iterate over a dictionary
  - What is a lambda function
  - What are the map, reduce and filter functions
+by andualem getachew
